@@ -29,7 +29,7 @@ Lakukan import database di localhost/phpmyadmin
 - Buat database baru dengan nama presensi_magang_database
 - import file sql yang tersedia (presensi_magang_database.sql)
 
-### Running Projects Front End
+### Running Projects Back End
 Menggunakan perintah dibawah ini unutk menjalankan program (Program dijalankan pada PORT 3000)
  ```sh
   npm start -- --port 3000
