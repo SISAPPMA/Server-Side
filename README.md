@@ -26,8 +26,8 @@ Ketikkan perintah dibawah ini melalui terminal dari direktori folder yang sudah 
 
 ### Import Database
 Lakukan import database di localhost/phpmyadmin
-- Buat database baru dengan nama presensi_magang_databases
-- import file sql yang tersedia (presensi_magang_databases.sql)
+- Buat database baru dengan nama presensi_magang_database
+- import file sql yang tersedia (presensi_magang_database.sql)
 
 ### Running Projects Front End
 Menggunakan perintah dibawah ini unutk menjalankan program (Program dijalankan pada PORT 3000)
